@@ -1,0 +1,27 @@
+{
+    "name": "Catie",
+    "description": "Catie is a cat",
+    "image": "https://bafybeihqptgiyxeeb4os2ykjrhs6gra25javocjmvvlxnnoonkn2ljjm3i.ipfs.dweb.link?filename=image.png",
+    "attributes": [
+        {
+            "trait_type": "Character",
+            "value": "Cat"
+        },
+        {
+            "trait_type": "Color",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Purple Gradient"
+        },
+        {
+            "trait_type": "Style",
+            "value": "Pixel Art"
+        }
+    ]
+}
